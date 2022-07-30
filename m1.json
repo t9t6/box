@@ -47,8 +47,7 @@
 
 "parses": [
 
-{ "name": "解析1", "type": 1, "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=" },
-{ "name": "解析2", "type": 1, "url": "https://jhpc.021huaying.com/api.php?url=" }
+{ "name": "解析1", "type": 1, "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=" }
 
 ],
 
